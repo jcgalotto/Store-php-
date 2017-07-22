@@ -15,12 +15,16 @@ body {
 	height:80px;
 	text-align: center;
 	margin: auto;
-	background:  linear-gradient(to right, #578CA7, #5059AE);
+	background:  #749ced;
 }
 #nav{
-    width: 100%;
+    
 	text-align: center;
 	background: #ccd7e9;
+}
+
+nav{
+	margin-bottom: 5%;
 }
 #main {
 	width:960px;
